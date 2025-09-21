@@ -1,4 +1,4 @@
-.\objects\main.o: User\main.cpp
+.\objects\main.o: User\main.c
 .\objects\main.o: .\Startup\stm32f10x.h
 .\objects\main.o: .\Startup\core_cm3.h
 .\objects\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
@@ -28,3 +28,6 @@
 .\objects\main.o: .\Library\stm32f10x_usart.h
 .\objects\main.o: .\Library\stm32f10x_wwdg.h
 .\objects\main.o: .\Library\misc.h
+.\objects\main.o: .\Hardware\OLED.h
+.\objects\main.o: .\Hardware\OLED_Data.h
+.\objects\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
