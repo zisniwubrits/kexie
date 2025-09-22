@@ -31,3 +31,4 @@
 .\objects\main.o: .\Hardware\OLED.h
 .\objects\main.o: .\Hardware\OLED_Data.h
 .\objects\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
